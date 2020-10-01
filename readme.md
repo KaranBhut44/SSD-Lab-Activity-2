@@ -1,4 +1,3 @@
-#Activity 1
 que1:
 took each word in new line by `tr` command. 
 
